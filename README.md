@@ -28,7 +28,7 @@ Voici les compétences que le candidat devra démontrer via des livrables rédig
 - Effectuer une veille métier et technologique en testant de nouveaux outils, techniques et méthodes d'analyse de données.
 - Identifier les besoins métier en intégrant les différentes contraintes afin d'identifier les objectifs et les enjeux.
 - Formaliser uncahier des charges fonctionnel pour cadrer les besoins et les solutions.
-- Organiserunprojet d'analyse data grâce à des outils de gestion de projet.
-- Accompagnerleséquipessurla prise en main des outils.
+- Organiser un projet d'analyse data grâce à des outils de gestion de projet.
+- Accompagner les équipes sur la prise en main des outils.
 - Formaliser les procédures de documentation pour assurer une gestion fiable.
 - Adapter sa posture de professionnel en se positionnant comme consultant afin dechallenger les besoins et répondre à la demande.
