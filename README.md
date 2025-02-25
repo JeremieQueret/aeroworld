@@ -23,6 +23,7 @@ L'entreprise dispose de vastes installations de recherche et de développement, 
 Nous recherchons un profil de Data Analyst chef de projet expérimenté et polyvalent, intéressé par une évolution possible vers le management d’une équipe et par l’innovation en Data. Unanglais technique ou opérationnel serait un plus pour ce poste.
 
 **Missions**
+
 Voici les compétences que le candidat devra démontrer via des livrables rédigés exclusivement pour ce recrutement. 
 - Effectuer une veille métier et technologique en testant de nouveaux outils, techniques et méthodes d'analyse de données.
 - Identifier les besoins métier en intégrant les différentes contraintes afin d'identifier les objectifs et les enjeux.
