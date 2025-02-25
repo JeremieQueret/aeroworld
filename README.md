@@ -1,8 +1,6 @@
 # aeroworld
 Candidature Chef de projet Data
-Recrutement : Chef de projet en analyse data 
 
-Cahier des charges élaboré pour l’entreprise de service numérique Data ESN 
 
 ## Qui sommes-nous ?
 
